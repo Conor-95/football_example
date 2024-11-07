@@ -1,0 +1,6 @@
+england iran 6 2
+wales usa 1 1
+wales iran 0 2
+england usa 0 0
+wales england 0 3
+iran usa 0 1
